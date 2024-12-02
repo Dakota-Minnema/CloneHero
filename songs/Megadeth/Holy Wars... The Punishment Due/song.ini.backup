@@ -1,0 +1,21 @@
+[Song]
+;
+name = Holy Wars... The Punishment Due
+artist = Megadeth
+album = Rust in Peace
+genre = Metal
+year = 1990
+song_length = 399666
+diff_band = 5
+diff_guitar = 6
+diff_bass = 6
+diff_drums = 5
+diff_keys = -1
+diff_guitarghl = -1
+diff_bassghl = -1
+preview_start_time = -1
+frets = <color=orange>Neversoft</color>
+charter=<color=orange>Neversoft</color>
+icon = ghwor
+playlist_track = 32
+loading_phrase = Mustaine has explained that the second half of the song was inspired by the comic book The Punisher, which he loves (the Megadeth song "Killing Is My Business... and Business is Good" is about The Punisher).
