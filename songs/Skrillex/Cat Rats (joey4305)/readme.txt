@@ -1,0 +1,1 @@
+This chart isn't the most accurate, but it's still challenging and mostly correct. It was one of my first charts and I didn't bother updating it aside from adding star power and sections.
